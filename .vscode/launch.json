@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://C:\\Users\\DELL\\OneDrive\\Desktop\\Floww.ai\\app.js",
+            "request": "launch",
+            "url": "http://C:\\Users\\DELL\\OneDrive\\Desktop\\Floww.ai\\app.js"
+        }
+    ]
+}
